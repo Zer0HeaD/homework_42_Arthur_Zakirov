@@ -1,0 +1,15 @@
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\bin\Debug\net7.0\Client.exe
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\bin\Debug\net7.0\Client.deps.json
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\bin\Debug\net7.0\Client.dll
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\bin\Debug\net7.0\Client.pdb
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.dll
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\refint\Client.dll
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.pdb
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\zakir\Desktop\ATTRACTOR\_SOLO\#42\HomeWork\HW_42_Arthur_Zakirov\HW_42_Arthur_Zakirov\obj\Debug\net7.0\ref\Client.dll
